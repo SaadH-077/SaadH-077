@@ -16,7 +16,7 @@
 
 # About Me
 
-🎓 **BC-CS, Class of 2025 — LUMS**  
+🎓 **BS-CS, Class of 2025 — LUMS**  
 Deep Learning | Computer Vision | NLP | Model Optimization | Universal Domain Adaptation
 
 - Recent graduate from LUMS with a strong focus on applied machine learning and scalable AI systems.
