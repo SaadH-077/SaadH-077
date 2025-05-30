@@ -3,18 +3,22 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Saad Haroon</h1>
-<img align="right" alt="Coding" width="32%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<h1 align="center">Muhammad Saad Haroon</h1>
 
-🤝 I’m looking to collaborate on:
+<img align="right" alt="Coding" width="33%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-    1. Deep Learning Research
-    2. Computer Vision & Image Reconstruction
-    3. Universal Domain Adaptation
-    4. Neural Network Optimization (Pruning, KD, FL)
-    5. LLM Applications & Retrieval-Augmented Generation
-    6. Generative Models (GANs, VAEs, Stable Diffusion)
-    7. Data-centric AI
+<div align="left" style="background: linear-gradient(145deg, #2e1065, #6b21a8); padding: 40px; border-radius: 20px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.8); max-width: 900px; margin: 30px auto;">
+  <h2 style="color: #f3e8ff; font-size: 1.8rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🤝 Hi, I’m looking to collaborate on:</h2>
+  <ul style="color: #d8b4fe; text-align: left; font-size: 1.1rem; max-width: 500px; margin: 0 auto; line-height: 2;">
+    <li>Deep Learning Research</li>
+    <li>Computer Vision & Image Reconstruction</li>
+    <li>Universal Domain Adaptation</li>
+    <li>Neural Network Optimization (Pruning, KD, FL)</li>
+    <li>LLM Applications & Retrieval-Augmented Generation</li>
+    <li>Generative Models (GANs, VAEs, Stable Diffusion)</li>
+    <li>Data-centric AI</li>
+  </ul>
+</div>
 
 📧 Contact: 25100147@lums.edu.pk
 
