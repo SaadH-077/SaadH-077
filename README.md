@@ -5,20 +5,17 @@
 
 <h1 align="center">Muhammad Saad Haroon</h1>
 
-<img align="right" alt="Coding" width="33%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="23%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<div align="left" style="background: linear-gradient(145deg, #2e1065, #6b21a8); padding: 40px; border-radius: 20px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.8); max-width: 900px; margin: 30px auto;">
-  <h2 style="color: #f3e8ff; font-size: 1.8rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🤝 Hi, I’m looking to collaborate on:</h2>
-  <ul style="color: #d8b4fe; text-align: left; font-size: 1.1rem; max-width: 500px; margin: 0 auto; line-height: 2;">
-    <li>Deep Learning Research</li>
-    <li>Computer Vision & Image Reconstruction</li>
-    <li>Universal Domain Adaptation</li>
-    <li>Neural Network Optimization (Pruning, KD, FL)</li>
-    <li>LLM Applications & Retrieval-Augmented Generation</li>
-    <li>Generative Models (GANs, VAEs, Stable Diffusion)</li>
-    <li>Data-centric AI</li>
-  </ul>
-</div>
+🤝 I’m looking to collaborate on:
+
+    1. Deep Learning Research
+    2. Computer Vision & Image Reconstruction
+    3. Universal Domain Adaptation
+    4. Neural Network Optimization (Pruning, KD, FL)
+    5. LLM Applications & Retrieval-Augmented Generation
+    6. Generative Models (GANs, VAEs, Stable Diffusion)
+    7. Data-centric AI
 
 📧 Contact: 25100147@lums.edu.pk
 
@@ -55,8 +52,29 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nextjs,nodejs,mongodb,mysql,postgres,tailwind,bootstrap,vscode,git,github,figma,linux,tensorflow,pytorch,opencv,fastapi,flask,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,nextjs,mongodb,mysql,postgres,tailwind,bootstrap,materialui,vscode,git,github,linux,figma" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,fastapi,flask,streamlit,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gradio" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-66A3D2.svg?&style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-blue?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-282828?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-purple?&style=for-the-badge"/>
+</p>
+
 
 ---
 
