@@ -176,7 +176,7 @@
 ---
 
 <p align="center">
-  <strong><em>“Adaptivity is intelligence in motion — not just training to generalize, but learning to evolve.”</em></strong>
+  <strong><em>“Engineering intelligence isn't about building what thinks — it's about building what learns.”</em></strong>
 </p>
 
 ---
