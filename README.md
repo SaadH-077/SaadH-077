@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaadH-077&theme=dark&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaadH-077&theme=github_dark&row=1&column=6" />
 </p>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
@@ -104,24 +104,75 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center" style="color: #facc15;">🚀 Featured Projects</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b><a href="https://github.com/SaadH-077/Adaptive-Entropy-Guided-Universal-Domain-Adaptation_AEG-UDA-">AEG-UDA</a></b><br/>Entropy-based domain adaptation for CDA, ODA, OPDA, PDA</td>
-      <td><b><a href="https://github.com/SaadH-077/Road-Damage-Classification-Using-ResNet50-InceptionV3-and-VGG16-A-Deep-Learning-Approach">Road Damage Classification</a></b><br/>TIF multi-label classification with ResNet50, InceptionV3, VGG16</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/SaadH-077/Vision3D-Landmark-Recon">Vision3D Landmark Reconstruction</a></b><br/>ORB + triangulation + FlutterCube deployment</td>
-      <td><b><a href="https://github.com/SaadH-077/SmartCourseAdvisor-RAG">SmartCourseAdvisor RAG</a></b><br/>LangChain LLM-based course advisor</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/SaadH-077/Federated-Learning-Optimization">Federated Learning Optimization</a></b><br/>FedSAM, FedAvg, FedGH benchmarking</td>
-      <td><b><a href="https://github.com/SaadH-077/DeepPruning-ATML">Deep Pruning + KD</a></b><br/>Pruning & distillation for CNN compression</td>
-    </tr>
-  </table>
+
+<!-- Machine Learning / Deep Learning Projects -->
+<h4 style="color: #84cc16;">Machine Learning / Deep Learning Projects</h4>
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/Adaptive-Entropy-Guided-Universal-Domain-Adaptation_AEG-UDA-" style="font-weight:bold; font-size: 16px;">AEG-UDA</a><br/>
+      <span style="font-size: 14px;">Entropy-based domain adaptation across CDA, ODA, OPDA, PDA</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/Road-Damage-Classification-Using-ResNet50-InceptionV3-and-VGG16-A-Deep-Learning-Approach" style="font-weight:bold; font-size: 16px;">Road Damage Classification</a><br/>
+      <span style="font-size: 14px;">Multi-label damage detection using ResNet50, InceptionV3, VGG16</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/Federated-Learning-Optimization" style="font-weight:bold; font-size: 16px;">Federated Learning Optimization</a><br/>
+      <span style="font-size: 14px;">Comparative study on Benchmarking FedAvg, FedSAM, FedGH & SCAFFOLD across edge nodes</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/DeepPruning-ATML" style="font-weight:bold; font-size: 16px;">Deep Pruning + KD</a><br/>
+      <span style="font-size: 14px;">Neural Network compression using Pruning techniques & knowledge distillation</span>
+    </td>
+  </tr>
+</table>
+
+<!-- Generative AI / NLP -->
+<h4 style="color: #22d3ee;">Generative AI / NLP Projects</h4>
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="90%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/SmartCourseAdvisor-RAG" style="font-weight:bold; font-size: 16px;">SmartCourseAdvisor-RAG</a><br/>
+      <span style="font-size: 14px;">LangChain-powered course recommender using Retrieval-Augmented Generation</span>
+    </td>
+  </tr>
+</table>
+
+<!-- Vision -->
+<h4 style="color: #60a5fa;">Computer Vision Projects</h4>
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="90%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/Vision3D-Landmark-Recon" style="font-weight:bold; font-size: 16px;">Vision3D Landmark Reconstruction</a><br/>
+      <span style="font-size: 14px;">3D landmark recon using ORB features, triangulation, and FlutterCube</span>
+    </td>
+  </tr>
+</table>
+
+<!-- SE -->
+<h4 style="color: #c084fc;">Software Engineering Projects</h4>
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/EmployNet" style="font-weight:bold; font-size: 16px;">EmployNet</a><br/>
+      <span style="font-size: 14px;">MERN-based HR portal with attendance, leave, and email automation</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/TradeBiz" style="font-weight:bold; font-size: 16px;">TradeBiz</a><br/>
+      <span style="font-size: 14px;">Full-stack B2B trading system with live trades & trader profile management</span>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+
 
 ---
 
