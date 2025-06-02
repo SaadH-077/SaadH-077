@@ -163,7 +163,7 @@
       <span style="font-size: 14px;">MERN-based HR portal with attendance, leave, and email automation</span>
     </td>
     <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
-      <a href="https://github.com/SaadH-077/TradeBiz" style="font-weight:bold; font-size: 16px;">TradeBiz</a><br/>
+      <a href="https://github.com/SaadH-077/tradebiz-mern" style="font-weight:bold; font-size: 16px;">TradeBiz</a><br/>
       <span style="font-size: 14px;">Full-stack B2B trading system with live trades & trader profile management</span>
     </td>
   </tr>
