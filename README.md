@@ -33,14 +33,14 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/SaadH-077">
     <img alt="Saad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaadH-077&show_icons=true&count_private=true&theme=github_dark" width="46.5%"/>
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadH-077&theme=github_dark_blue" alt="GitHub Streak" width="49%"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/SaadH-077">
@@ -48,9 +48,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaadH-077&theme=github_dark&row=1&column=6" />
-</p>
+</p> -->
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -136,7 +136,11 @@
 <h4 style="color: #22d3ee;">Generative AI / NLP Projects</h4>
 <table align="center" width="90%" style="border-spacing: 14px;">
   <tr>
-    <td align="center" width="90%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
+      <a href="https://github.com/SaadH-077/kahaani" style="font-weight:bold; font-size: 16px;">Kahaani</a><br/>
+      <span style="font-size: 14px;">Multi-Agent Generative AI for Dynamic Multimodal Narratives</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 12px;">
       <a href="https://github.com/SaadH-077/SmartCourseAdvisor-RAG" style="font-weight:bold; font-size: 16px;">SmartCourseAdvisor-RAG</a><br/>
       <span style="font-size: 14px;">LangChain-powered course recommender using Retrieval-Augmented Generation</span>
     </td>
