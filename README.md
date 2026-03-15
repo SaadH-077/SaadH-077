@@ -31,7 +31,9 @@
 
 ## About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="270"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="220"/>
+</div>
 
 ```python
 class SaadHaroon:
@@ -536,11 +538,7 @@ Featured by University of Warwick Education Fund
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadH-077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2266ff&text_color=c9d1d9&langs_count=10&hide=html,css" height="165"/>
 
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=SaadH-077&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=2266FF&fire=cc3344&currStreakLabel=2266FF&sideLabels=1a56db&currStreakNum=ffffff&sideNums=ffffff&dates=666688" width="58%"/>
-
-<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SaadH-077&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA&title=Commits,Repositories,Stars,Followers"/>
 
