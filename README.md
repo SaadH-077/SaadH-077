@@ -15,12 +15,12 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)]([https://saad-ai-portfolio.vercel.app/](https://saad-ai-portfolio-xi.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-ai-portfolio-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E63946)](https://www.linkedin.com/in/muhammad-saad-haroon-5b38a1241/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E63946)](mailto:saadharoonjehangir@gmail.com)
 
 ![Collaboration](https://img.shields.io/badge/Open_to-Collaborating_on_AI%2FML_Projects_%26_Research-E63946?style=flat-square&labelColor=1a1a1a)
-![Location](https://img.shields.io/badge/Based_in-Munich,_Germany-1a1a1a?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Munich,_Germany_🇩🇪-1a1a1a?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=SaadH-077&label=Profile+Views&color=E63946&style=flat-square)
 
 </div>
@@ -31,7 +31,7 @@
 
 I'm an **AI Engineer** who ships — I turn research-grade ideas into production systems that real users can touch. My work centers on **LLM agents, RAG, and multi-agent pipelines**, and I own the full stack around them: model logic, FastAPI backends, Next.js frontends, and cloud deployment.
 
-- 🎓 **MSc Computer Science** @ Saarland University, Germany — focus on Machine Learning, Computer Vision & NLP
+- 🎓 **MSc Computer Science** @ Saarland University, Germany 🇩🇪 — focus on Machine Learning, Computer Vision & NLP
 - 🏆 **BSc Computer Science** @ LUMS — Distinction, CGPA 3.67 / German 1.5, Dean's Honour List 2022–2025
 - 🤖 **Shipped 20+ production AI agents** to the **Oracle AI Agent Marketplace**, published across releases **26B** (4 agents) and **26C** (16 agents) &nbsp;·&nbsp; [**View Initiative**](https://www.gosaas.ai/gosaas-agentic-ai-solutions) &nbsp;|&nbsp; [**Oracle Marketplace**](https://marketplace.oracle.com/fusion+applications/listings?solutionType=Fusion+AI+Agent&query=GoSaaS)
 - 📄 **Published GenAI research** at **EACL SRW 2026** — *Kahaani: A Multimodal Co-Creative Storytelling System* &nbsp;·&nbsp; [**Read the paper**](https://aclanthology.org/2026.eacl-srw.25/)
@@ -108,7 +108,7 @@ Built to prove I sweat the details on the frontend as much as the model layer. *
 
 `React 18` · `Vite` · `Three.js` · `Framer Motion` · `Web Speech API` · `Tailwind CSS`
 
-[![Launch Live](https://img.shields.io/badge/▶_Launch_the_Experience-E63946?style=for-the-badge&logo=vercel&logoColor=white)]([https://saad-ai-portfolio.vercel.app/](https://saad-ai-portfolio-xi.vercel.app/))
+[![Launch Live](https://img.shields.io/badge/▶_Launch_the_Experience-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-ai-portfolio-xi.vercel.app/)
 &nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadH-077/saad-ai-portfolio)
 
