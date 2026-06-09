@@ -1,10 +1,10 @@
-<div align="center">
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,45:e63946,100:b91c1c&height=200&section=header&text=Muhammad%20Saad%20Haroon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Full-Stack%20Engineer&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="assets/header.png" width="100%"/>
+
+<div align="center">
 
 <!-- RED CODE-RAIN GIF -->
 <img src="assets/coding.gif" width="480"/>
@@ -20,7 +20,7 @@
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E63946)](mailto:saadharoonjehangir@gmail.com)
 
 ![Collaboration](https://img.shields.io/badge/Open_to-Collaborating_on_AI%2FML_Projects_%26_Research-E63946?style=flat-square&labelColor=1a1a1a)
-![Location](https://img.shields.io/badge/Based_in-Munich,_Germany_🇩🇪-1a1a1a?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Munich,_Germany-1a1a1a?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=SaadH-077&label=Profile+Views&color=E63946&style=flat-square)
 
 </div>
@@ -117,34 +117,82 @@ Built to prove I sweat the details on the frontend as much as the model layer. *
 
 ---
 
-## 📂 More Projects by Domain
+## More Projects by Domain
 
-**🤖 Agentic AI · LLMs · RAG**
-- [**AEGIS**](https://github.com/SaadH-077/aegis-agentic-rag) — Adaptive + Corrective + Self-RAG agent with a live 3D reasoning graph
-- [**Legal-Aid**](https://github.com/SaadH-077/Legal-Aid) — Deployed RAG assistant over legal PDFs with source-attributed answers `Mistral-7B · FAISS`
-- [**SmartCourse Advisor**](https://github.com/SaadH-077/SmartCourseAdvisor-RAG) — Multi-turn conversational RAG for university course recommendations `LangChain · ChromaDB`
+<table>
+<tr>
+<td valign="middle" width="30%" align="center">
 
-**🎨 Generative AI & NLP**
-- [**Kahaani**](https://github.com/SaadH-077/kahaani) — Multimodal GenAI storytelling (LLM + TTS + text-to-video), *published @ EACL 2026*
-- [**F1 Nexus**](https://github.com/SaadH-077/F1-Nexus) — LLM-powered post-race analysis inside a full-stack analytics platform
+![Agentic AI, LLMs & RAG](https://img.shields.io/badge/Agentic_AI_·_LLMs_·_RAG-E63946?style=for-the-badge&labelColor=1a1a1a)
 
-**🧠 Machine Learning Research**
-- [**AEG-UDA**](https://github.com/SaadH-077/Adaptive-Entropy-Guided-Universal-Domain-Adaptation_AEG-UDA-) — Novel Universal Domain Adaptation framework unifying all four UDA regimes `PyTorch`
-- [**Stolen-Model Detection**](https://github.com/SaadH-077/tml26-stolen-model-detection) — Trustworthy-ML model-theft detector, **🥇 1st place** (TPR@5%FPR = 0.76)
-- [**FedLearn-Opt**](https://github.com/SaadH-077/Federated-Learning-Optimization) — Benchmarking FedAvg, SCAFFOLD, FedGH & FedSAM on non-IID data
+</td>
+<td valign="middle">
 
-**👁️ Computer Vision**
-- [**Vision3D**](https://github.com/SaadH-077/Vision3D-Landmark-Recon) — 3D landmark reconstruction from 2D images (ORB/SIFT, epipolar geometry, COLMAP)
-- [**Road-Damage Classification**](https://github.com/SaadH-077/Road-Damage-Classification-Using-ResNet50-InceptionV3-and-VGG16-A-Deep-Learning-Approach) — Multi-label damage detection across ResNet50 / InceptionV3 / VGG16
+**[AEGIS](https://github.com/SaadH-077/aegis-agentic-rag)** — Adaptive + Corrective + Self-RAG agent with a live 3D reasoning graph<br/>
+**[Legal-Aid](https://github.com/SaadH-077/Legal-Aid)** — Deployed RAG assistant over legal PDFs with source-attributed answers<br/>
+**[SmartCourse Advisor](https://github.com/SaadH-077/SmartCourseAdvisor-RAG)** — Multi-turn conversational RAG for course recommendations
 
-**🌐 Full-Stack Engineering**
-- [**AI Portfolio**](https://github.com/SaadH-077/saad-ai-portfolio) — WebGL portfolio with 3D neural field, command palette & voice nav `React · Three.js`
-- [**EmployNet**](https://github.com/SaadH-077/EmployNet) — HR self-service portal: attendance, leave & payroll `MERN`
-- [**TradeBiz**](https://github.com/SaadH-077/tradebiz-mern) — Real-time trading/bartering platform with live offers `MERN · Socket.IO`
+</td>
+</tr>
+<tr>
+<td valign="middle" align="center">
+
+![Generative AI & NLP](https://img.shields.io/badge/Generative_AI_&_NLP-E63946?style=for-the-badge&labelColor=1a1a1a)
+
+</td>
+<td valign="middle">
+
+**[Kahaani](https://github.com/SaadH-077/kahaani)** — Multimodal GenAI storytelling (LLM + TTS + text-to-video), *published @ EACL 2026*<br/>
+**[F1 Nexus](https://github.com/SaadH-077/F1-Nexus)** — LLM-powered post-race analysis inside a full-stack analytics platform
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="center">
+
+![Machine Learning Research](https://img.shields.io/badge/Machine_Learning_Research-E63946?style=for-the-badge&labelColor=1a1a1a)
+
+</td>
+<td valign="middle">
+
+**[AEG-UDA](https://github.com/SaadH-077/Adaptive-Entropy-Guided-Universal-Domain-Adaptation_AEG-UDA-)** — Novel Universal Domain Adaptation framework unifying all four UDA regimes<br/>
+**[Stolen-Model Detection](https://github.com/SaadH-077/tml26-stolen-model-detection)** — Trustworthy-ML model-theft detector, **1st place** (TPR@5%FPR = 0.76)<br/>
+**[FedLearn-Opt](https://github.com/SaadH-077/Federated-Learning-Optimization)** — Benchmarking FedAvg, SCAFFOLD, FedGH & FedSAM on non-IID data
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="center">
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-E63946?style=for-the-badge&labelColor=1a1a1a)
+
+</td>
+<td valign="middle">
+
+**[Vision3D](https://github.com/SaadH-077/Vision3D-Landmark-Recon)** — 3D landmark reconstruction from 2D images (ORB/SIFT, epipolar geometry, COLMAP)<br/>
+**[Road-Damage Classification](https://github.com/SaadH-077/Road-Damage-Classification-Using-ResNet50-InceptionV3-and-VGG16-A-Deep-Learning-Approach)** — Multi-label damage detection across ResNet50 / InceptionV3 / VGG16
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="center">
+
+![Full-Stack Engineering](https://img.shields.io/badge/Full--Stack_Engineering-E63946?style=for-the-badge&labelColor=1a1a1a)
+
+</td>
+<td valign="middle">
+
+**[AI Portfolio](https://github.com/SaadH-077/saad-ai-portfolio)** — WebGL portfolio with 3D neural field, command palette & voice navigation<br/>
+**[EmployNet](https://github.com/SaadH-077/EmployNet)** — HR self-service portal: attendance, leave & payroll (MERN)<br/>
+**[TradeBiz](https://github.com/SaadH-077/tradebiz-mern)** — Real-time trading/bartering platform with live offers (MERN, Socket.IO)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
@@ -157,77 +205,60 @@ Built to prove I sweat the details on the frontend as much as the model layer. *
 ![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=E63946)
 ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=E63946)
 
-**LLM Engineering · Agents · Prompting**
-
-![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=E63946)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=for-the-badge&logo=langchain&logoColor=E63946)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1a1a1a?style=for-the-badge&logoColor=E63946)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=E63946)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=E63946)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Guardrails](https://img.shields.io/badge/Guardrails_%26_LLM_Eval-1a1a1a?style=for-the-badge&logoColor=E63946)
-
-**RAG & Vector Search**
-
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1a1a1a?style=for-the-badge&logoColor=E63946)
-![FAISS](https://img.shields.io/badge/FAISS-1a1a1a?style=for-the-badge&logo=meta&logoColor=E63946)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Pinecone](https://img.shields.io/badge/Pinecone-1a1a1a?style=for-the-badge&logo=pinecone&logoColor=E63946)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-1a1a1a?style=for-the-badge&logoColor=E63946)
-
-**Machine Learning & Deep Learning**
+**AI / ML Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=E63946)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=E63946)
 ![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=for-the-badge&logo=keras&logoColor=E63946)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikit-learn&logoColor=E63946)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a1a1a?style=for-the-badge&logo=xgboost&logoColor=E63946)
-![Transformers](https://img.shields.io/badge/Transformers-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=E63946)
-
-**Computer Vision**
-
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=E63946)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=for-the-badge&logo=opencv&logoColor=E63946)
-![YOLO](https://img.shields.io/badge/YOLO-1a1a1a?style=for-the-badge&logoColor=E63946)
-![ViTs](https://img.shields.io/badge/Vision_Transformers-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Diffusion](https://img.shields.io/badge/Diffusion_Models-1a1a1a?style=for-the-badge&logoColor=E63946)
-![Open3D](https://img.shields.io/badge/Open3D-1a1a1a?style=for-the-badge&logoColor=E63946)
+
+**LLM Engineering · RAG · Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=E63946)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=for-the-badge&logo=langchain&logoColor=E63946)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=E63946)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=E63946)
+![Llama](https://img.shields.io/badge/Llama-1a1a1a?style=for-the-badge&logo=meta&logoColor=E63946)
+![FAISS](https://img.shields.io/badge/FAISS-1a1a1a?style=for-the-badge&logo=meta&logoColor=E63946)
 
 **MLOps · Deployment · Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=E63946)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=E63946)
 ![MLflow](https://img.shields.io/badge/MLflow-1a1a1a?style=for-the-badge&logo=mlflow&logoColor=E63946)
-![Weights & Biases](https://img.shields.io/badge/W%26B-1a1a1a?style=for-the-badge&logo=weightsandbiases&logoColor=E63946)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=E63946)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-1a1a1a?style=for-the-badge&logo=weightsandbiases&logoColor=E63946)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=E63946)
 ![ONNX](https://img.shields.io/badge/ONNX-1a1a1a?style=for-the-badge&logo=onnx&logoColor=E63946)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=E63946)
 
-**Full-Stack & Backend**
+**Full-Stack & Web**
 
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=E63946)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=E63946)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=E63946)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=E63946)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=E63946)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=E63946)
 ![Three.js](https://img.shields.io/badge/Three.js-1a1a1a?style=for-the-badge&logo=threedotjs&logoColor=E63946)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=E63946)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=E63946)
 
-**Cloud & Data**
+**Data & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS_(Bedrock_·_SageMaker)-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=E63946)
-![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=E63946)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_OCI-1a1a1a?style=for-the-badge&logo=oracle&logoColor=E63946)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=E63946)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=E63946)
 ![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=E63946)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=E63946)
+![Plotly](https://img.shields.io/badge/Plotly-1a1a1a?style=for-the-badge&logo=plotly&logoColor=E63946)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a1a?style=for-the-badge&logo=jupyter&logoColor=E63946)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=E63946)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-1a1a1a?style=for-the-badge&logo=oracle&logoColor=E63946)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=E63946)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -236,6 +267,8 @@ Built to prove I sweat the details on the frontend as much as the model layer. *
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadH-077&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&langs_count=8&hide=html,css" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=SaadH-077&hide_border=true&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&dayLabels=c9d1d9&stroke=E63946" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadH-077&bg_color=0d1117&color=ffffff&line=E63946&point=ffffff&area=true&area_color=8b0000&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
 
 </div>
 
@@ -250,6 +283,8 @@ Always open to **collaborating on AI / ML projects and research** — if you're 
 [![Email](https://img.shields.io/badge/Get_in_touch-E63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadharoonjehangir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E63946)](https://www.linkedin.com/in/muhammad-saad-haroon-5b38a1241/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,50:e63946,100:8b0000&height=110&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="assets/footer.png" width="100%"/>
 
 </div>
