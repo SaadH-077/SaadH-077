@@ -100,6 +100,11 @@ Implements **Adaptive + Corrective + Self-RAG** in a single stateful pipeline:
 <table>
 <tr><td>
 
+<img src="assets/PortfolioAI.jpeg" width="100%"/>
+
+</td></tr>
+<tr><td>
+
 ### 🌐 AI Portfolio — An Interactive WebGL Showcase
 
 **Not a template — a full WebGL experience engineered from scratch.** A real-time 3D neural-network particle field, a holographic rotating globe, a `Ctrl+K` command palette, a working terminal emulator, and voice-command navigation.
