@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-ai-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)]([https://saad-ai-portfolio.vercel.app/](https://saad-ai-portfolio-xi.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E63946)](https://www.linkedin.com/in/muhammad-saad-haroon-5b38a1241/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E63946)](mailto:saadharoonjehangir@gmail.com)
 
@@ -108,7 +108,7 @@ Built to prove I sweat the details on the frontend as much as the model layer. *
 
 `React 18` · `Vite` · `Three.js` · `Framer Motion` · `Web Speech API` · `Tailwind CSS`
 
-[![Launch Live](https://img.shields.io/badge/▶_Launch_the_Experience-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-ai-portfolio.vercel.app/)
+[![Launch Live](https://img.shields.io/badge/▶_Launch_the_Experience-E63946?style=for-the-badge&logo=vercel&logoColor=white)]([https://saad-ai-portfolio.vercel.app/](https://saad-ai-portfolio-xi.vercel.app/))
 &nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadH-077/saad-ai-portfolio)
 
